@@ -25,54 +25,54 @@ REG_PT_154  = Paratype PT154
 REG_XOS4_2  = XOS4 2
 REG_10646_1 = ISO10646 1
 
-PSF_8859_1  = ter-112n.psf ter-114n.psf ter-114b.psf ter-116n.psf ter-116b.psf ter-118n.psf ter-118b.psf ter-120n.psf ter-120b.psf ter-122n.psf ter-122b.psf ter-124n.psf ter-124b.psf ter-128n.psf ter-128b.psf ter-132n.psf ter-132b.psf
-PSF_8859_2  = ter-212n.psf ter-214n.psf ter-214b.psf ter-216n.psf ter-216b.psf ter-218n.psf ter-218b.psf ter-220n.psf ter-220b.psf ter-222n.psf ter-222b.psf ter-224n.psf ter-224b.psf ter-228n.psf ter-228b.psf ter-232n.psf ter-232b.psf
-PSF_8859_7  = ter-712n.psf ter-714n.psf ter-714b.psf ter-716n.psf ter-716b.psf ter-718n.psf ter-718b.psf ter-720n.psf ter-720b.psf ter-722n.psf ter-722b.psf ter-724n.psf ter-724b.psf ter-728n.psf ter-728b.psf ter-732n.psf ter-732b.psf
-PSF_8859_9  = ter-912n.psf ter-914n.psf ter-914b.psf ter-916n.psf ter-916b.psf ter-918n.psf ter-918b.psf ter-920n.psf ter-920b.psf ter-922n.psf ter-922b.psf ter-924n.psf ter-924b.psf ter-928n.psf ter-928b.psf ter-932n.psf ter-932b.psf
-PSF_MS_1251 = ter-c12n.psf ter-c14n.psf ter-c14b.psf ter-c16n.psf ter-c16b.psf ter-c18n.psf ter-c18b.psf ter-c20n.psf ter-c20b.psf ter-c22n.psf ter-c22b.psf ter-c24n.psf ter-c24b.psf ter-c28n.psf ter-c28b.psf ter-c32n.psf ter-c32b.psf
-PSF_8859_13 = ter-d12n.psf ter-d14n.psf ter-d14b.psf ter-d16n.psf ter-d16b.psf ter-d18n.psf ter-d18b.psf ter-d20n.psf ter-d20b.psf ter-d22n.psf ter-d22b.psf ter-d24n.psf ter-d24b.psf ter-d28n.psf ter-d28b.psf ter-d32n.psf ter-d32b.psf
-PSF_8859_16 = ter-g12n.psf ter-g14n.psf ter-g14b.psf ter-g16n.psf ter-g16b.psf ter-g18n.psf ter-g18b.psf ter-g20n.psf ter-g20b.psf ter-g22n.psf ter-g22b.psf ter-g24n.psf ter-g24b.psf ter-g28n.psf ter-g28b.psf ter-g32n.psf ter-g32b.psf
-PSF_MS_1255 = ter-h12n.psf ter-h14n.psf ter-h14b.psf ter-h16n.psf ter-h16b.psf ter-h18n.psf ter-h18b.psf ter-h20n.psf ter-h20b.psf ter-h22n.psf ter-h22b.psf ter-h24n.psf ter-h24b.psf ter-h28n.psf ter-h28b.psf ter-h32n.psf ter-h32b.psf
-PSF_IBM_437 = ter-i12n.psf ter-i14n.psf ter-i14b.psf ter-i16n.psf ter-i16b.psf ter-i18n.psf ter-i18b.psf ter-i20n.psf ter-i20b.psf ter-i22n.psf ter-i22b.psf ter-i24n.psf ter-i24b.psf ter-i28n.psf ter-i28b.psf ter-i32n.psf ter-i32b.psf
-PSF_KOI8_RV = ter-k14n.psf ter-k14b.psf ter-k16n.psf ter-k16b.psf
-PSF_KOI8_R  = ter-k12n.psf ter-k18n.psf ter-k18b.psf ter-k20n.psf ter-k20b.psf ter-k22n.psf ter-k22b.psf ter-k24n.psf ter-k24b.psf ter-k28n.psf ter-k28b.psf ter-k32n.psf ter-k32b.psf
-PSF_BG_MIK  = ter-m12n.psf ter-m14n.psf ter-m14b.psf ter-m16n.psf ter-m16b.psf ter-m18n.psf ter-m18b.psf ter-m20n.psf ter-m20b.psf ter-m22n.psf ter-m22b.psf ter-m24n.psf ter-m24b.psf ter-m28n.psf ter-m28b.psf ter-m32n.psf ter-m32b.psf
-PSF_PT_154  = ter-p12n.psf ter-p14n.psf ter-p14b.psf ter-p16n.psf ter-p16b.psf ter-p18n.psf ter-p18b.psf ter-p20n.psf ter-p20b.psf ter-p22n.psf ter-p22b.psf ter-p24n.psf ter-p24b.psf ter-p28n.psf ter-p28b.psf ter-p32n.psf ter-p32b.psf
-PSF_KOI8_UV = ter-u14n.psf ter-u14b.psf ter-u16n.psf ter-u16b.psf
-PSF_KOI8_U  = ter-u12n.psf ter-u18n.psf ter-u18b.psf ter-u20n.psf ter-u20b.psf ter-u22n.psf ter-u22b.psf ter-u24n.psf ter-u24b.psf ter-u28n.psf ter-u28b.psf ter-u32n.psf ter-u32b.psf
-PSF_XOS4_2  = ter-v12n.psf ter-v14n.psf ter-v14b.psf ter-v16n.psf ter-v16b.psf ter-v18n.psf ter-v18b.psf ter-v20n.psf ter-v20b.psf ter-v22n.psf ter-v22b.psf ter-v24n.psf ter-v24b.psf ter-v28n.psf ter-v28b.psf ter-v32n.psf ter-v32b.psf
+PSF_8859_1  = ler-112n.psf ler-114n.psf ler-114b.psf ler-116n.psf ler-116b.psf ler-118n.psf ler-118b.psf ler-120n.psf ler-120b.psf ler-122n.psf ler-122b.psf ler-124n.psf ler-124b.psf ler-128n.psf ler-128b.psf ler-132n.psf ler-132b.psf
+PSF_8859_2  = ler-212n.psf ler-214n.psf ler-214b.psf ler-216n.psf ler-216b.psf ler-218n.psf ler-218b.psf ler-220n.psf ler-220b.psf ler-222n.psf ler-222b.psf ler-224n.psf ler-224b.psf ler-228n.psf ler-228b.psf ler-232n.psf ler-232b.psf
+PSF_8859_7  = ler-712n.psf ler-714n.psf ler-714b.psf ler-716n.psf ler-716b.psf ler-718n.psf ler-718b.psf ler-720n.psf ler-720b.psf ler-722n.psf ler-722b.psf ler-724n.psf ler-724b.psf ler-728n.psf ler-728b.psf ler-732n.psf ler-732b.psf
+PSF_8859_9  = ler-912n.psf ler-914n.psf ler-914b.psf ler-916n.psf ler-916b.psf ler-918n.psf ler-918b.psf ler-920n.psf ler-920b.psf ler-922n.psf ler-922b.psf ler-924n.psf ler-924b.psf ler-928n.psf ler-928b.psf ler-932n.psf ler-932b.psf
+PSF_MS_1251 = ler-c12n.psf ler-c14n.psf ler-c14b.psf ler-c16n.psf ler-c16b.psf ler-c18n.psf ler-c18b.psf ler-c20n.psf ler-c20b.psf ler-c22n.psf ler-c22b.psf ler-c24n.psf ler-c24b.psf ler-c28n.psf ler-c28b.psf ler-c32n.psf ler-c32b.psf
+PSF_8859_13 = ler-d12n.psf ler-d14n.psf ler-d14b.psf ler-d16n.psf ler-d16b.psf ler-d18n.psf ler-d18b.psf ler-d20n.psf ler-d20b.psf ler-d22n.psf ler-d22b.psf ler-d24n.psf ler-d24b.psf ler-d28n.psf ler-d28b.psf ler-d32n.psf ler-d32b.psf
+PSF_8859_16 = ler-g12n.psf ler-g14n.psf ler-g14b.psf ler-g16n.psf ler-g16b.psf ler-g18n.psf ler-g18b.psf ler-g20n.psf ler-g20b.psf ler-g22n.psf ler-g22b.psf ler-g24n.psf ler-g24b.psf ler-g28n.psf ler-g28b.psf ler-g32n.psf ler-g32b.psf
+PSF_MS_1255 = ler-h12n.psf ler-h14n.psf ler-h14b.psf ler-h16n.psf ler-h16b.psf ler-h18n.psf ler-h18b.psf ler-h20n.psf ler-h20b.psf ler-h22n.psf ler-h22b.psf ler-h24n.psf ler-h24b.psf ler-h28n.psf ler-h28b.psf ler-h32n.psf ler-h32b.psf
+PSF_IBM_437 = ler-i12n.psf ler-i14n.psf ler-i14b.psf ler-i16n.psf ler-i16b.psf ler-i18n.psf ler-i18b.psf ler-i20n.psf ler-i20b.psf ler-i22n.psf ler-i22b.psf ler-i24n.psf ler-i24b.psf ler-i28n.psf ler-i28b.psf ler-i32n.psf ler-i32b.psf
+PSF_KOI8_RV = ler-k14n.psf ler-k14b.psf ler-k16n.psf ler-k16b.psf
+PSF_KOI8_R  = ler-k12n.psf ler-k18n.psf ler-k18b.psf ler-k20n.psf ler-k20b.psf ler-k22n.psf ler-k22b.psf ler-k24n.psf ler-k24b.psf ler-k28n.psf ler-k28b.psf ler-k32n.psf ler-k32b.psf
+PSF_BG_MIK  = ler-m12n.psf ler-m14n.psf ler-m14b.psf ler-m16n.psf ler-m16b.psf ler-m18n.psf ler-m18b.psf ler-m20n.psf ler-m20b.psf ler-m22n.psf ler-m22b.psf ler-m24n.psf ler-m24b.psf ler-m28n.psf ler-m28b.psf ler-m32n.psf ler-m32b.psf
+PSF_PT_154  = ler-p12n.psf ler-p14n.psf ler-p14b.psf ler-p16n.psf ler-p16b.psf ler-p18n.psf ler-p18b.psf ler-p20n.psf ler-p20b.psf ler-p22n.psf ler-p22b.psf ler-p24n.psf ler-p24b.psf ler-p28n.psf ler-p28b.psf ler-p32n.psf ler-p32b.psf
+PSF_KOI8_UV = ler-u14n.psf ler-u14b.psf ler-u16n.psf ler-u16b.psf
+PSF_KOI8_U  = ler-u12n.psf ler-u18n.psf ler-u18b.psf ler-u20n.psf ler-u20b.psf ler-u22n.psf ler-u22b.psf ler-u24n.psf ler-u24b.psf ler-u28n.psf ler-u28b.psf ler-u32n.psf ler-u32b.psf
+PSF_XOS4_2  = ler-v12n.psf ler-v14n.psf ler-v14b.psf ler-v16n.psf ler-v16b.psf ler-v18n.psf ler-v18b.psf ler-v20n.psf ler-v20b.psf ler-v22n.psf ler-v22b.psf ler-v24n.psf ler-v24b.psf ler-v28n.psf ler-v28b.psf ler-v32n.psf ler-v32b.psf
 PSF = $(PSF_8859_1) $(PSF_8859_2) $(PSF_8859_7) $(PSF_8859_9) $(PSF_MS_1251) $(PSF_8859_13) $(PSF_8859_16) $(PSF_MS_1255) $(PSF_IBM_437) $(PSF_KOI8_RV) $(PSF_KOI8_R) $(PSF_BG_MIK) $(PSF_PT_154) $(PSF_KOI8_UV) $(PSF_KOI8_U) $(PSF_XOS4_2)
 
-PSF_VGAW_8859_1  = ter-114v.psf ter-116v.psf
-PSF_VGAW_8859_2  = ter-214v.psf ter-216v.psf
-PSF_VGAW_8859_7  = ter-714v.psf ter-716v.psf
-PSF_VGAW_8859_9  = ter-914v.psf ter-916v.psf
-PSF_VGAW_MS_1251 = ter-c14v.psf ter-c16v.psf
-PSF_VGAW_8859_13 = ter-d14v.psf ter-d16v.psf
-PSF_VGAW_8859_16 = ter-g14v.psf ter-g16v.psf
-PSF_VGAW_MS_1255 = ter-h14v.psf ter-h16v.psf
-PSF_VGAW_IBM_437 = ter-i14v.psf ter-i16v.psf
-PSF_VGAW_KOI8_RV = ter-k14v.psf ter-k16v.psf
-PSF_VGAW_BG_MIK  = ter-m14v.psf ter-m16v.psf
-PSF_VGAW_PT_154  = ter-p14v.psf ter-p16v.psf
-PSF_VGAW_KOI8_UV = ter-u14v.psf ter-u16v.psf
-PSF_VGAW_XOS4_2  = ter-v14v.psf ter-v16v.psf
+PSF_VGAW_8859_1  = ler-114v.psf ler-116v.psf
+PSF_VGAW_8859_2  = ler-214v.psf ler-216v.psf
+PSF_VGAW_8859_7  = ler-714v.psf ler-716v.psf
+PSF_VGAW_8859_9  = ler-914v.psf ler-916v.psf
+PSF_VGAW_MS_1251 = ler-c14v.psf ler-c16v.psf
+PSF_VGAW_8859_13 = ler-d14v.psf ler-d16v.psf
+PSF_VGAW_8859_16 = ler-g14v.psf ler-g16v.psf
+PSF_VGAW_MS_1255 = ler-h14v.psf ler-h16v.psf
+PSF_VGAW_IBM_437 = ler-i14v.psf ler-i16v.psf
+PSF_VGAW_KOI8_RV = ler-k14v.psf ler-k16v.psf
+PSF_VGAW_BG_MIK  = ler-m14v.psf ler-m16v.psf
+PSF_VGAW_PT_154  = ler-p14v.psf ler-p16v.psf
+PSF_VGAW_KOI8_UV = ler-u14v.psf ler-u16v.psf
+PSF_VGAW_XOS4_2  = ler-v14v.psf ler-v16v.psf
 PSF_VGAW = $(PSF_VGAW_8859_1) $(PSF_VGAW_8859_2) $(PSF_VGAW_8859_7) $(PSF_VGAW_8859_9) $(PSF_VGAW_MS_1251) $(PSF_VGAW_8859_13) $(PSF_VGAW_8859_16) $(PSF_VGAW_MS_1255) $(PSF_VGAW_IBM_437) $(PSF_VGAW_KOI8_RV) $(PSF_VGAW_BG_MIK) $(PSF_VGAW_PT_154) $(PSF_VGAW_KOI8_UV) $(PSF_VGAW_XOS4_2)
 
-PCF_8859_1  = ter-112n.pcf ter-112b.pcf ter-114n.pcf ter-114b.pcf ter-116n.pcf ter-116b.pcf ter-118n.pcf ter-118b.pcf ter-120n.pcf ter-120b.pcf ter-122n.pcf ter-122b.pcf ter-124n.pcf ter-124b.pcf ter-128n.pcf ter-128b.pcf ter-132n.pcf ter-132b.pcf
-PCF_8859_2  = ter-212n.pcf ter-212b.pcf ter-214n.pcf ter-214b.pcf ter-216n.pcf ter-216b.pcf ter-218n.pcf ter-218b.pcf ter-220n.pcf ter-220b.pcf ter-222n.pcf ter-222b.pcf ter-224n.pcf ter-224b.pcf ter-228n.pcf ter-228b.pcf ter-232n.pcf ter-232b.pcf
-PCF_8859_5  = ter-512n.pcf ter-512b.pcf ter-514n.pcf ter-514b.pcf ter-516n.pcf ter-516b.pcf ter-518n.pcf ter-518b.pcf ter-520n.pcf ter-520b.pcf ter-522n.pcf ter-522b.pcf ter-524n.pcf ter-524b.pcf ter-528n.pcf ter-528b.pcf ter-532n.pcf ter-532b.pcf
-PCF_8859_7  = ter-712n.pcf ter-712b.pcf ter-714n.pcf ter-714b.pcf ter-716n.pcf ter-716b.pcf ter-718n.pcf ter-718b.pcf ter-720n.pcf ter-720b.pcf ter-722n.pcf ter-722b.pcf ter-724n.pcf ter-724b.pcf ter-728n.pcf ter-728b.pcf ter-732n.pcf ter-732b.pcf
-PCF_8859_9  = ter-912n.pcf ter-912b.pcf ter-914n.pcf ter-914b.pcf ter-916n.pcf ter-916b.pcf ter-918n.pcf ter-918b.pcf ter-920n.pcf ter-920b.pcf ter-922n.pcf ter-922b.pcf ter-924n.pcf ter-924b.pcf ter-928n.pcf ter-928b.pcf ter-932n.pcf ter-932b.pcf
-PCF_MS_1251 = ter-c12n.pcf ter-c12b.pcf ter-c14n.pcf ter-c14b.pcf ter-c16n.pcf ter-c16b.pcf ter-c18n.pcf ter-c18b.pcf ter-c20n.pcf ter-c20b.pcf ter-c22n.pcf ter-c22b.pcf ter-c24n.pcf ter-c24b.pcf ter-c28n.pcf ter-c28b.pcf ter-c32n.pcf ter-c32b.pcf
-PCF_8859_13 = ter-d12n.pcf ter-d12b.pcf ter-d14n.pcf ter-d14b.pcf ter-d16n.pcf ter-d16b.pcf ter-d18n.pcf ter-d18b.pcf ter-d20n.pcf ter-d20b.pcf ter-d22n.pcf ter-d22b.pcf ter-d24n.pcf ter-d24b.pcf ter-d28n.pcf ter-d28b.pcf ter-d32n.pcf ter-d32b.pcf
-PCF_8859_15 = ter-f12n.pcf ter-f12b.pcf ter-f14n.pcf ter-f14b.pcf ter-f16n.pcf ter-f16b.pcf ter-f18n.pcf ter-f18b.pcf ter-f20n.pcf ter-f20b.pcf ter-f22n.pcf ter-f22b.pcf ter-f24n.pcf ter-f24b.pcf ter-f28n.pcf ter-f28b.pcf ter-f32n.pcf ter-f32b.pcf
-PCF_8859_16 = ter-g12n.pcf ter-g12b.pcf ter-g14n.pcf ter-g14b.pcf ter-g16n.pcf ter-g16b.pcf ter-g18n.pcf ter-g18b.pcf ter-g20n.pcf ter-g20b.pcf ter-g22n.pcf ter-g22b.pcf ter-g24n.pcf ter-g24b.pcf ter-g28n.pcf ter-g28b.pcf ter-g32n.pcf ter-g32b.pcf
-PCF_IBM_437 = ter-i12n.pcf ter-i12b.pcf ter-i14n.pcf ter-i14b.pcf ter-i16n.pcf ter-i16b.pcf ter-i18n.pcf ter-i18b.pcf ter-i20n.pcf ter-i20b.pcf ter-i22n.pcf ter-i22b.pcf ter-i24n.pcf ter-i24b.pcf ter-i28n.pcf ter-i28b.pcf ter-i32n.pcf ter-i32b.pcf
-PCF_KOI8_R  = ter-k12n.pcf ter-k12b.pcf ter-k14n.pcf ter-k14b.pcf ter-k16n.pcf ter-k16b.pcf ter-k18n.pcf ter-k18b.pcf ter-k20n.pcf ter-k20b.pcf ter-k22n.pcf ter-k22b.pcf ter-k24n.pcf ter-k24b.pcf ter-k28n.pcf ter-k28b.pcf ter-k32n.pcf ter-k32b.pcf
-PCF_PT_154  = ter-p12n.pcf ter-p12b.pcf ter-p14n.pcf ter-p14b.pcf ter-p16n.pcf ter-p16b.pcf ter-p18n.pcf ter-p18b.pcf ter-p20n.pcf ter-p20b.pcf ter-p22n.pcf ter-p22b.pcf ter-p24n.pcf ter-p24b.pcf ter-p28n.pcf ter-p28b.pcf ter-p32n.pcf ter-p32b.pcf
-PCF_KOI8_U  = ter-u12n.pcf ter-u12b.pcf ter-u14n.pcf ter-u14b.pcf ter-u16n.pcf ter-u16b.pcf ter-u18n.pcf ter-u18b.pcf ter-u20n.pcf ter-u20b.pcf ter-u22n.pcf ter-u22b.pcf ter-u24n.pcf ter-u24b.pcf ter-u28n.pcf ter-u28b.pcf ter-u32n.pcf ter-u32b.pcf
-PCF_10646_1 = ter-x12n.pcf ter-x12b.pcf ter-x14n.pcf ter-x14b.pcf ter-x16n.pcf ter-x16b.pcf ter-x18n.pcf ter-x18b.pcf ter-x20n.pcf ter-x20b.pcf ter-x22n.pcf ter-x22b.pcf ter-x24n.pcf ter-x24b.pcf ter-x28n.pcf ter-x28b.pcf ter-x32n.pcf ter-x32b.pcf
+PCF_8859_1  = ler-112n.pcf ler-112b.pcf ler-114n.pcf ler-114b.pcf ler-116n.pcf ler-116b.pcf ler-118n.pcf ler-118b.pcf ler-120n.pcf ler-120b.pcf ler-122n.pcf ler-122b.pcf ler-124n.pcf ler-124b.pcf ler-128n.pcf ler-128b.pcf ler-132n.pcf ler-132b.pcf
+PCF_8859_2  = ler-212n.pcf ler-212b.pcf ler-214n.pcf ler-214b.pcf ler-216n.pcf ler-216b.pcf ler-218n.pcf ler-218b.pcf ler-220n.pcf ler-220b.pcf ler-222n.pcf ler-222b.pcf ler-224n.pcf ler-224b.pcf ler-228n.pcf ler-228b.pcf ler-232n.pcf ler-232b.pcf
+PCF_8859_5  = ler-512n.pcf ler-512b.pcf ler-514n.pcf ler-514b.pcf ler-516n.pcf ler-516b.pcf ler-518n.pcf ler-518b.pcf ler-520n.pcf ler-520b.pcf ler-522n.pcf ler-522b.pcf ler-524n.pcf ler-524b.pcf ler-528n.pcf ler-528b.pcf ler-532n.pcf ler-532b.pcf
+PCF_8859_7  = ler-712n.pcf ler-712b.pcf ler-714n.pcf ler-714b.pcf ler-716n.pcf ler-716b.pcf ler-718n.pcf ler-718b.pcf ler-720n.pcf ler-720b.pcf ler-722n.pcf ler-722b.pcf ler-724n.pcf ler-724b.pcf ler-728n.pcf ler-728b.pcf ler-732n.pcf ler-732b.pcf
+PCF_8859_9  = ler-912n.pcf ler-912b.pcf ler-914n.pcf ler-914b.pcf ler-916n.pcf ler-916b.pcf ler-918n.pcf ler-918b.pcf ler-920n.pcf ler-920b.pcf ler-922n.pcf ler-922b.pcf ler-924n.pcf ler-924b.pcf ler-928n.pcf ler-928b.pcf ler-932n.pcf ler-932b.pcf
+PCF_MS_1251 = ler-c12n.pcf ler-c12b.pcf ler-c14n.pcf ler-c14b.pcf ler-c16n.pcf ler-c16b.pcf ler-c18n.pcf ler-c18b.pcf ler-c20n.pcf ler-c20b.pcf ler-c22n.pcf ler-c22b.pcf ler-c24n.pcf ler-c24b.pcf ler-c28n.pcf ler-c28b.pcf ler-c32n.pcf ler-c32b.pcf
+PCF_8859_13 = ler-d12n.pcf ler-d12b.pcf ler-d14n.pcf ler-d14b.pcf ler-d16n.pcf ler-d16b.pcf ler-d18n.pcf ler-d18b.pcf ler-d20n.pcf ler-d20b.pcf ler-d22n.pcf ler-d22b.pcf ler-d24n.pcf ler-d24b.pcf ler-d28n.pcf ler-d28b.pcf ler-d32n.pcf ler-d32b.pcf
+PCF_8859_15 = ler-f12n.pcf ler-f12b.pcf ler-f14n.pcf ler-f14b.pcf ler-f16n.pcf ler-f16b.pcf ler-f18n.pcf ler-f18b.pcf ler-f20n.pcf ler-f20b.pcf ler-f22n.pcf ler-f22b.pcf ler-f24n.pcf ler-f24b.pcf ler-f28n.pcf ler-f28b.pcf ler-f32n.pcf ler-f32b.pcf
+PCF_8859_16 = ler-g12n.pcf ler-g12b.pcf ler-g14n.pcf ler-g14b.pcf ler-g16n.pcf ler-g16b.pcf ler-g18n.pcf ler-g18b.pcf ler-g20n.pcf ler-g20b.pcf ler-g22n.pcf ler-g22b.pcf ler-g24n.pcf ler-g24b.pcf ler-g28n.pcf ler-g28b.pcf ler-g32n.pcf ler-g32b.pcf
+PCF_IBM_437 = ler-i12n.pcf ler-i12b.pcf ler-i14n.pcf ler-i14b.pcf ler-i16n.pcf ler-i16b.pcf ler-i18n.pcf ler-i18b.pcf ler-i20n.pcf ler-i20b.pcf ler-i22n.pcf ler-i22b.pcf ler-i24n.pcf ler-i24b.pcf ler-i28n.pcf ler-i28b.pcf ler-i32n.pcf ler-i32b.pcf
+PCF_KOI8_R  = ler-k12n.pcf ler-k12b.pcf ler-k14n.pcf ler-k14b.pcf ler-k16n.pcf ler-k16b.pcf ler-k18n.pcf ler-k18b.pcf ler-k20n.pcf ler-k20b.pcf ler-k22n.pcf ler-k22b.pcf ler-k24n.pcf ler-k24b.pcf ler-k28n.pcf ler-k28b.pcf ler-k32n.pcf ler-k32b.pcf
+PCF_PT_154  = ler-p12n.pcf ler-p12b.pcf ler-p14n.pcf ler-p14b.pcf ler-p16n.pcf ler-p16b.pcf ler-p18n.pcf ler-p18b.pcf ler-p20n.pcf ler-p20b.pcf ler-p22n.pcf ler-p22b.pcf ler-p24n.pcf ler-p24b.pcf ler-p28n.pcf ler-p28b.pcf ler-p32n.pcf ler-p32b.pcf
+PCF_KOI8_U  = ler-u12n.pcf ler-u12b.pcf ler-u14n.pcf ler-u14b.pcf ler-u16n.pcf ler-u16b.pcf ler-u18n.pcf ler-u18b.pcf ler-u20n.pcf ler-u20b.pcf ler-u22n.pcf ler-u22b.pcf ler-u24n.pcf ler-u24b.pcf ler-u28n.pcf ler-u28b.pcf ler-u32n.pcf ler-u32b.pcf
+PCF_10646_1 = ler-x12n.pcf ler-x12b.pcf ler-x14n.pcf ler-x14b.pcf ler-x16n.pcf ler-x16b.pcf ler-x18n.pcf ler-x18b.pcf ler-x20n.pcf ler-x20b.pcf ler-x22n.pcf ler-x22b.pcf ler-x24n.pcf ler-x24b.pcf ler-x28n.pcf ler-x28b.pcf ler-x32n.pcf ler-x32b.pcf
 PCF_8BIT = $(PCF_8859_1) $(PCF_8859_2) $(PCF_8859_5) $(PCF_8859_7) $(PCF_8859_9) $(PCF_MS_1251) $(PCF_8859_13) $(PCF_8859_15) $(PCF_8859_16) $(PCF_IBM_437) $(PCF_KOI8_R) $(PCF_PT_154) $(PCF_KOI8_U)
 PCF = $(PCF_10646_1)
 
@@ -83,7 +83,7 @@ all: $(PSF) $(PCF)
 DESTDIR	=
 prefix	= /usr/local
 psfdir	= $(prefix)/share/consolefonts
-x11dir	= $(prefix)/share/fonts/terminus
+x11dir	= $(prefix)/share/fonts/lerminus
 
 install: $(PSF) $(PCF)
 	mkdir -p $(DESTDIR)$(psfdir)
@@ -136,52 +136,52 @@ DUP_KOI8_UV = dup/cntrl.dup dup/ascii-h.dup dup/koi8.dup
 DUP_KOI8_U  = dup/cntrl.dup dup/ascii-h.dup dup/koi8.dup
 DUP_XOS4_2  = dup/vgagr.dup dup/xos4-2.dup
 
-$(PSF_8859_1) $(PSF_VGAW_8859_1): ter-1%.psf : ter-u%.bdf $(VGA_8859_1) $(DUP_8859_1)
+$(PSF_8859_1) $(PSF_VGAW_8859_1): ler-1%.psf : ler-u%.bdf $(VGA_8859_1) $(DUP_8859_1)
 	$(UCS2ANY) $< $(REG_8859_1) $(VGA_8859_1) | $(BDF2PSF) -o $@ $(DUP_8859_1)
 
-$(PSF_8859_2) $(PSF_VGAW_8859_2): ter-2%.psf : ter-u%.bdf $(VGA_8859_2) $(DUP_8859_2)
+$(PSF_8859_2) $(PSF_VGAW_8859_2): ler-2%.psf : ler-u%.bdf $(VGA_8859_2) $(DUP_8859_2)
 	$(UCS2ANY) $< $(REG_8859_2) $(VGA_8859_2) | $(BDF2PSF) -o $@ $(DUP_8859_2)
 
-$(PSF_8859_7) $(PSF_VGAW_8859_7): ter-7%.psf : ter-u%.bdf $(VGA_8859_7) $(DUP_8859_7)
+$(PSF_8859_7) $(PSF_VGAW_8859_7): ler-7%.psf : ler-u%.bdf $(VGA_8859_7) $(DUP_8859_7)
 	$(UCS2ANY) $< $(REG_8859_7) $(VGA_8859_7) | $(BDF2PSF) -o $@ $(DUP_8859_7)
 
-$(PSF_8859_9) $(PSF_VGAW_8859_9): ter-9%.psf : ter-u%.bdf $(VGA_8859_9) $(DUP_8859_9)
+$(PSF_8859_9) $(PSF_VGAW_8859_9): ler-9%.psf : ler-u%.bdf $(VGA_8859_9) $(DUP_8859_9)
 	$(UCS2ANY) $< $(REG_8859_9) $(VGA_8859_9) | $(BDF2PSF) -o $@ $(DUP_8859_9)
 
-$(PSF_MS_1251) $(PSF_VGAW_MS_1251): ter-c%.psf : ter-u%.bdf $(VGA_MS_1251) $(DUP_MS_1251)
+$(PSF_MS_1251) $(PSF_VGAW_MS_1251): ler-c%.psf : ler-u%.bdf $(VGA_MS_1251) $(DUP_MS_1251)
 	$(UCS2ANY) $< $(REG_MS_1251) $(VGA_MS_1251) | $(BDF2PSF) -o $@ $(DUP_MS_1251)
 
-$(PSF_8859_13) $(PSF_VGAW_8859_13): ter-d%.psf : ter-u%.bdf $(VGA_8859_13) $(DUP_8859_13)
+$(PSF_8859_13) $(PSF_VGAW_8859_13): ler-d%.psf : ler-u%.bdf $(VGA_8859_13) $(DUP_8859_13)
 	$(UCS2ANY) $< $(REG_8859_13) $(VGA_8859_13) | $(BDF2PSF) -o $@ $(DUP_8859_13)
 
-$(PSF_8859_16) $(PSF_VGAW_8859_16): ter-g%.psf : ter-u%.bdf $(VGA_8859_16) $(DUP_8859_16)
+$(PSF_8859_16) $(PSF_VGAW_8859_16): ler-g%.psf : ler-u%.bdf $(VGA_8859_16) $(DUP_8859_16)
 	$(UCS2ANY) $< $(REG_8859_16) $(VGA_8859_16) | $(BDF2PSF) -o $@ $(DUP_8859_16)
 
-$(PSF_MS_1255) $(PSF_VGAW_MS_1255): ter-h%.psf : ter-u%.bdf $(VGA_MS_1255) $(DUP_MS_1255)
+$(PSF_MS_1255) $(PSF_VGAW_MS_1255): ler-h%.psf : ler-u%.bdf $(VGA_MS_1255) $(DUP_MS_1255)
 	$(UCS2ANY) $< $(REG_MS_1255) $(VGA_MS_1255) | $(BDF2PSF) -o $@ $(DUP_MS_1255)
 
-$(PSF_IBM_437) $(PSF_VGAW_IBM_437): ter-i%.psf : ter-u%.bdf $(VGA_IBM_437) $(DUP_IBM_437)
+$(PSF_IBM_437) $(PSF_VGAW_IBM_437): ler-i%.psf : ler-u%.bdf $(VGA_IBM_437) $(DUP_IBM_437)
 	$(UCS2ANY) $< $(REG_IBM_437) $(VGA_IBM_437) | $(BDF2PSF) -o $@ $(DUP_IBM_437)
 
-$(PSF_KOI8_RV) $(PSF_VGAW_KOI8_RV): ter-k%.psf : ter-u%.bdf $(VGA_KOI8_RV) $(DUP_KOI8_RV)
+$(PSF_KOI8_RV) $(PSF_VGAW_KOI8_RV): ler-k%.psf : ler-u%.bdf $(VGA_KOI8_RV) $(DUP_KOI8_RV)
 	$(UCS2ANY) $< $(REG_KOI8_R) $(VGA_KOI8_RV) | $(BDF2PSF) -o $@ $(DUP_KOI8_RV)
 
-$(PSF_KOI8_R): ter-k%.psf : ter-u%.bdf $(VGA_KOI8_R) $(DUP_KOI8_R)
+$(PSF_KOI8_R): ler-k%.psf : ler-u%.bdf $(VGA_KOI8_R) $(DUP_KOI8_R)
 	$(UCS2ANY) $< $(REG_KOI8_R) $(VGA_KOI8_R) | $(BDF2PSF) -o $@ $(DUP_KOI8_R)
 
-$(PSF_BG_MIK) $(PSF_VGAW_BG_MIK): ter-m%.psf : ter-u%.bdf $(VGA_BG_MIK) $(DUP_BG_MIK)
+$(PSF_BG_MIK) $(PSF_VGAW_BG_MIK): ler-m%.psf : ler-u%.bdf $(VGA_BG_MIK) $(DUP_BG_MIK)
 	$(UCS2ANY) $< $(REG_BG_MIK) $(VGA_BG_MIK) | $(BDF2PSF) -o $@ $(DUP_BG_MIK)
 
-$(PSF_PT_154) $(PSF_VGAW_PT_154): ter-p%.psf : ter-u%.bdf $(VGA_PT_154) $(DUP_PT_154)
+$(PSF_PT_154) $(PSF_VGAW_PT_154): ler-p%.psf : ler-u%.bdf $(VGA_PT_154) $(DUP_PT_154)
 	$(UCS2ANY) $< $(REG_PT_154) $(VGA_PT_154) | $(BDF2PSF) -o $@ $(DUP_PT_154)
 
-$(PSF_KOI8_UV) $(PSF_VGAW_KOI8_UV): ter-u%.psf : ter-u%.bdf $(VGA_KOI8_UV) $(DUP_KOI8_UV)
+$(PSF_KOI8_UV) $(PSF_VGAW_KOI8_UV): ler-u%.psf : ler-u%.bdf $(VGA_KOI8_UV) $(DUP_KOI8_UV)
 	$(UCS2ANY) $< $(REG_KOI8_R) $(VGA_KOI8_UV) | $(BDF2PSF) -o $@ $(DUP_KOI8_UV)
 
-$(PSF_KOI8_U): ter-u%.psf : ter-u%.bdf $(VGA_KOI8_U) $(DUP_KOI8_U)
+$(PSF_KOI8_U): ler-u%.psf : ler-u%.bdf $(VGA_KOI8_U) $(DUP_KOI8_U)
 	$(UCS2ANY) $< $(REG_KOI8_U) $(VGA_KOI8_U) | $(BDF2PSF) -o $@ $(DUP_KOI8_U)
 
-$(PSF_XOS4_2) $(PSF_VGAW_XOS4_2): ter-v%.psf : ter-u%.bdf $(VGA_XOS4_2) $(DUP_XOS4_2)
+$(PSF_XOS4_2) $(PSF_VGAW_XOS4_2): ler-v%.psf : ler-u%.bdf $(VGA_XOS4_2) $(DUP_XOS4_2)
 	$(UCS2ANY) $< $(REG_XOS4_2) $(VGA_XOS4_2) | $(BDF2PSF) -o $@ $(DUP_XOS4_2)
 
 psf: $(PSF)
@@ -202,7 +202,7 @@ install-psf-vgaw: $(PSF_VGAW)
 uninstall-psf-vgaw:
 	for i in $(PSF_VGAW) ; do rm -f $(DESTDIR)$(psfdir)/$$i.gz ; done
 
-psfref = $(psfdir)/README.terminus
+psfref = $(psfdir)/README.lerminus
 
 install-psf-ref: README
 	mkdir -p $(DESTDIR)$(psfdir)
@@ -228,46 +228,46 @@ X11_PT_154  = uni/x11gr.uni uni/ascii-h.uni uni/pt-154.uni
 X11_KOI8_U  = uni/x11gr.uni uni/ascii-h.uni uni/koi8-u.uni
 X11_10646_1 = uni/x11gr.uni uni/10646-1.uni
 
-$(PCF_8859_1): ter-1%.pcf : ter-u%.bdf $(X11_8859_1)
+$(PCF_8859_1): ler-1%.pcf : ler-u%.bdf $(X11_8859_1)
 	$(UCS2X11) $< $(REG_8859_1) $(X11_8859_1) | $(BDF2PCF) -o $@
 
-$(PCF_8859_2): ter-2%.pcf : ter-u%.bdf $(X11_8859_2)
+$(PCF_8859_2): ler-2%.pcf : ler-u%.bdf $(X11_8859_2)
 	$(UCS2X11) $< $(REG_8859_2) $(X11_8859_2) | $(BDF2PCF) -o $@
 
-$(PCF_8859_5): ter-5%.pcf : ter-u%.bdf $(X11_8859_5)
+$(PCF_8859_5): ler-5%.pcf : ler-u%.bdf $(X11_8859_5)
 	$(UCS2X11) $< $(REG_8859_5) $(X11_8859_5) | $(BDF2PCF) -o $@
 
-$(PCF_8859_7): ter-7%.pcf : ter-u%.bdf $(X11_8859_7)
+$(PCF_8859_7): ler-7%.pcf : ler-u%.bdf $(X11_8859_7)
 	$(UCS2X11) $< $(REG_8859_7) $(X11_8859_7) | $(BDF2PCF) -o $@
 
-$(PCF_8859_9): ter-9%.pcf : ter-u%.bdf $(X11_8859_9)
+$(PCF_8859_9): ler-9%.pcf : ler-u%.bdf $(X11_8859_9)
 	$(UCS2X11) $< $(REG_8859_9) $(X11_8859_9) | $(BDF2PCF) -o $@
 
-$(PCF_MS_1251): ter-c%.pcf : ter-u%.bdf $(X11_MS_1251)
+$(PCF_MS_1251): ler-c%.pcf : ler-u%.bdf $(X11_MS_1251)
 	$(UCS2X11) $< $(REG_MS_1251) $(X11_MS_1251) | $(BDF2PCF) -o $@
 
-$(PCF_8859_13): ter-d%.pcf : ter-u%.bdf $(X11_8859_13)
+$(PCF_8859_13): ler-d%.pcf : ler-u%.bdf $(X11_8859_13)
 	$(UCS2X11) $< $(REG_8859_13) $(X11_8859_13) | $(BDF2PCF) -o $@
 
-$(PCF_8859_15): ter-f%.pcf : ter-u%.bdf $(X11_8859_15)
+$(PCF_8859_15): ler-f%.pcf : ler-u%.bdf $(X11_8859_15)
 	$(UCS2X11) $< $(REG_8859_15) $(X11_8859_15) | $(BDF2PCF) -o $@
 
-$(PCF_8859_16): ter-g%.pcf : ter-u%.bdf $(X11_8859_16)
+$(PCF_8859_16): ler-g%.pcf : ler-u%.bdf $(X11_8859_16)
 	$(UCS2X11) $< $(REG_8859_16) $(X11_8859_16) | $(BDF2PCF) -o $@
 
-$(PCF_IBM_437): ter-i%.pcf : ter-u%.bdf $(X11_IBM_437)
+$(PCF_IBM_437): ler-i%.pcf : ler-u%.bdf $(X11_IBM_437)
 	$(UCS2X11) $< $(REG_IBM_437) $(X11_IBM_437) | $(BDF2PCF) -o $@
 
-$(PCF_KOI8_R): ter-k%.pcf : ter-u%.bdf $(X11_KOI8_R)
+$(PCF_KOI8_R): ler-k%.pcf : ler-u%.bdf $(X11_KOI8_R)
 	$(UCS2X11) $< $(REG_KOI8_R) $(X11_KOI8_R) | $(BDF2PCF) -o $@
 
-$(PCF_PT_154): ter-p%.pcf : ter-u%.bdf $(X11_PT_154)
+$(PCF_PT_154): ler-p%.pcf : ler-u%.bdf $(X11_PT_154)
 	$(UCS2X11) $< $(REG_PT_154) $(X11_PT_154) | $(BDF2PCF) -o $@
 
-$(PCF_KOI8_U): ter-u%.pcf : ter-u%.bdf $(X11_KOI8_U)
+$(PCF_KOI8_U): ler-u%.pcf : ler-u%.bdf $(X11_KOI8_U)
 	$(UCS2X11) $< $(REG_KOI8_U) $(X11_KOI8_U) | $(BDF2PCF) -o $@
 
-$(PCF_10646_1): ter-x%.pcf : ter-u%.bdf $(X11_10646_1)
+$(PCF_10646_1): ler-x%.pcf : ler-u%.bdf $(X11_10646_1)
 	$(UCS2X11) $< $(REG_10646_1) $(X11_10646_1) | $(BDF2PCF) -o $@
 
 pcf: $(PCF)

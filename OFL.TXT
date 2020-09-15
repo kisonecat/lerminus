@@ -1,5 +1,5 @@
-Copyright (c) 2019 Dimitar Toshkov Zhekov,
-with Reserved Font Name "Terminus Font".
+Copyright (c) 2019 Dimitar Toshkov Zhekov, Copyright (c) 2020 Jim Fowler,
+with Reserved Font Name "Lerminus Font".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

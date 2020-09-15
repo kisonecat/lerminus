@@ -73,7 +73,7 @@ The default PREFIX is /usr/local.
 
 The file names are structured as follows:
 
-ter-u<SIZE><STYLE>.bdf
+ler-u<SIZE><STYLE>.bdf
 
 <SIZE> is the font height. <STYLE> is n for normal (all sizes), b for bold
 (all sizes except 6x12), and v for CRT VGA bold (8x14 and 8x16 only, uses
@@ -156,11 +156,11 @@ $ make -j8 psf-vgaw
 
 To load a cont in consoletools:
 
-$ consolechars [-m MAPPING] -f ter-<X><SIZE><STYLE>
+$ consolechars [-m MAPPING] -f ler-<X><SIZE><STYLE>
 
 To load a font in kbd:
 
-$ setfont [-m MAPPING] ter-<X><SIZE><STYLE>
+$ setfont [-m MAPPING] ler-<X><SIZE><STYLE>
 
 where <X> is a character identifying the code page as listed in p.2.4.
 
@@ -180,29 +180,29 @@ in DIRECTORY.
 
 names	mappings		covered codepage(s)
 
-ter-1*	iso01, iso15, cp1252	ISO8859-1, ISO8859-15, Windows-1252
-ter-2*	iso02, cp1250		ISO8859-2, Windows-1250
-ter-7*	iso07, cp1253		ISO8859-7, Windows-1253
-ter-9*	iso09, cp1254		ISO8859-9, Windows-1254
-ter-c*	cp1251, iso05		Windows-1251, ISO8859-5
-ter-d*	iso13, cp1257		ISO8859-13, Windows-1257
-ter-g*	iso16			ISO8859-16
-ter-h*	cp1255, iso08		Windows-1258, ISO8859-8
-ter-i*	cp437			IBM-437
-ter-k*	koi8r			KOI8-R
-ter-m*	mik			Bulgarian-MIK
-ter-p*	pt154			Paratype-PT154
-ter-u*	koi8u			KOI8-U
+ler-1*	iso01, iso15, cp1252	ISO8859-1, ISO8859-15, Windows-1252
+ler-2*	iso02, cp1250		ISO8859-2, Windows-1250
+ler-7*	iso07, cp1253		ISO8859-7, Windows-1253
+ler-9*	iso09, cp1254		ISO8859-9, Windows-1254
+ler-c*	cp1251, iso05		Windows-1251, ISO8859-5
+ler-d*	iso13, cp1257		ISO8859-13, Windows-1257
+ler-g*	iso16			ISO8859-16
+ler-h*	cp1255, iso08		Windows-1258, ISO8859-8
+ler-i*	cp437			IBM-437
+ler-k*	koi8r			KOI8-R
+ler-m*	mik			Bulgarian-MIK
+ler-p*	pt154			Paratype-PT154
+ler-u*	koi8u			KOI8-U
 
-ter-v*	all mappings / code pages listed above and many others, about 110
+ler-v*	all mappings / code pages listed above and many others, about 110
 	language sets, 8 or 16 foreground colors depending on the kernel and
 	console driver versions
 
 names	weight
 
-ter-*n	normal
-ter-*b	bold
-ter-*v	CRT VGA bold
+ler-*n	normal
+ler-*b	bold
+ler-*v	CRT VGA bold
 
 
 2.5. Notes.
